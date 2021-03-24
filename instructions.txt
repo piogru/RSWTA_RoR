@@ -1,0 +1,5 @@
+ruby 2.7.0p0 
+sqlite3 3.22.0
+nodejs v12.14.1
+yarn 1.21.1
+rails 6.0.3.5
